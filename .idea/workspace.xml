@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb81c0ee-4a0b-41fc-a53c-25cd133a0176" name="Default Changelist" comment="" />
+    <list default="true" id="cb81c0ee-4a0b-41fc-a53c-25cd133a0176" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -25,6 +30,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lileve-web" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -34,19 +40,6 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +48,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606849145475</updated>
-      <workItem from="1606849146494" duration="12246000" />
+      <workItem from="1606849146494" duration="14095000" />
+      <workItem from="1606892555293" duration="1380000" />
+      <workItem from="1606913005916" duration="3536000" />
+      <workItem from="1607004031763" duration="2503000" />
+      <workItem from="1607109480868" duration="666000" />
+      <workItem from="1607114066168" duration="4000" />
+      <workItem from="1609251063735" duration="666000" />
+      <workItem from="1609865800404" duration="21000" />
+      <workItem from="1609868814004" duration="4019000" />
+      <workItem from="1609951394546" duration="2436000" />
     </task>
     <servers />
   </component>
@@ -63,21 +65,31 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1606876068586">
+    <state x="2469" y="167" key="FileChooserDialogImpl" timestamp="1607109556294">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1606876068586" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1606876068586">
+    <state x="2469" y="167" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1606893044053" />
+    <state x="2469" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824/-1920.0.1536.824@1920.0.1536.824" timestamp="1607109556294" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1606892536836">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1606876068586" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1606876068586">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1606892536836" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1606892536835">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1606876068586" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1606876068586">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1606892536835" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1606892536835">
       <screen x="1920" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1606876068586" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1606892536835" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1606892536836">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1606892536836" />
+    <state x="2129" y="96" key="new project wizard" timestamp="1607011018781">
+      <screen x="1920" y="0" width="1536" height="824" />
+    </state>
+    <state x="2129" y="96" key="new project wizard/0.0.1536.824/-1920.0.1536.824/1920.0.1536.824@1920.0.1536.824" timestamp="1606889026899" />
+    <state x="2129" y="96" key="new project wizard/0.0.1536.824/1920.0.1536.824/-1920.0.1536.824@1920.0.1536.824" timestamp="1607011018781" />
   </component>
 </project>
